@@ -4,6 +4,7 @@
   "data": {
     "ver": "4.16.1",
     "url": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/4.16.1/latest.apk",
+    "iosurl": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/4.16.1/latest.ipa",
     "updateNote": "跟进底层V4.16.1\n原更新注释:\n请及时更新，获取最新教学动态，全面操作移动端单元评价。"
   }
 }
