@@ -3,8 +3,8 @@
   "message": "SUCCESS",
   "data": {
     "ver": "4.16.1.1",
-    "url": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/latest/latest.apk",
-    "iosurl": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/latest/latest.ipa",
+    "url": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/4.16.1.1/latest.apk",
+    "iosurl": "https://mirror.ghproxy.com/github.com/NoName50/-/releases/download/4.16.1.1/latest.ipa",
     "updateNote": "1.去除大部分选图个数限制\n2.始终允许重做任务(即使任务已结束)\n3.允许在拍照签到时使用相册中的图片"
   }
 }
